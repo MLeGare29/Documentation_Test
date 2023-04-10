@@ -26,6 +26,8 @@ print(text)
 
 **Welcome to my repository test for FinTech Documentation. Here you will see various formats for executing Markdowns. Please explore the code base!**
 
+![An image of Mount Kilimanjaro in Kenya/Tanzania.](C:\Users\legar\OneDrive\Pictures\kili.jpg)
+
 > "... to boldly go where no one has gone before."
 
 ## **Directory:**
@@ -35,4 +37,6 @@ print(text)
 [Data Files](data)
 
 [References](references)
+
+
 
