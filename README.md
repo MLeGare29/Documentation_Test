@@ -9,3 +9,10 @@ Welcome to my repository for a Documentation Test. Please explore the codebase
 ---
 **Welcome to my repository of FinTech Documentation. Please explore the code base!**
 
+A 'print' function in Python displays the text or variable passed in the function as output:
+
+```python
+text = 'This is a sentence that you would like to display'
+print(text)
+``` 
+
