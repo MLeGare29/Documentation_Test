@@ -31,6 +31,8 @@ print(text)
 ## **Directory:**
 
 [Programs](code)
+
 [Data Files](data)
+
 [References](references)
 
