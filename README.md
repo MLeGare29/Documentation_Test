@@ -22,3 +22,15 @@ print(text)
 
 > "... to boldly go where no one has gone before."
 
+# *FinTech Documentation*
+
+**Welcome to my repository test for FinTech Documentation. Here you will see various formats for executing Markdowns. Please explore the code base!**
+
+> "... to boldly go where no one has gone before."
+
+## **Directory:**
+
+[Programs](code)
+[Data Files](data)
+[References](references)
+
