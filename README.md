@@ -26,7 +26,7 @@ print(text)
 
 **Welcome to my repository test for FinTech Documentation. Here you will see various formats for executing Markdowns. Please explore the code base!**
 
-![An image of Mount Kilimanjaro in Kenya/Tanzania.](C:\Users\legar\OneDrive\Pictures\kili.jpg)
+![An image of Mount Kilimanjaro in Kenya/Tanzania.](https://www.adventurealternative.com/media/817137/kili.jpg?height=1129&width=1082&quality=&mode=Crop&center=0.36548223350253806,0.56&bgcolor=)
 
 > "... to boldly go where no one has gone before."
 
