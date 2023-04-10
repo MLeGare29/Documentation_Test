@@ -1,8 +1,3 @@
-# Documentation_Test
-# FinTech Documentation Test
-## FinTech Documentation Test
-### FinTech Documentation Test
-
 # *FinTech Documentation*
 
 **Welcome to my repository test for FinTech Documentation. Here you will see various formats for executing Markdowns. Please explore the code base!**
